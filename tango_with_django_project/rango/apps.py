@@ -2,4 +2,4 @@ from django.apps import AppConfig
 
 
 class RangoConfig(AppConfig):
-    name = 'rango'
+    name = 'tango_with_django_project.rango'
