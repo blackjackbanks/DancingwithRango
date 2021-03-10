@@ -1,5 +1,5 @@
 from django.urls import path
-from tango_with_django_project.rango import views
+from ..rango import views
 
 app_name = 'rango'
 
